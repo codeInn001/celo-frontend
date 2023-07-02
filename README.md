@@ -6,8 +6,7 @@
 - A simple marketplace dApp built on the Celo blockchain. The decentralized marketplace application will allow users to list their items for sale, purchase items, view listed items and give product reviews. It is built on the pre-existing marketplace smart contract with added functionalities and an improved frontend page. The following functionalities were added
 
 1. To the smart contract
-- A `review` property to the array of `Review` struct
-- A `writeReview` function that enables users to give reviews.
+- A `review` property to the array of `Review` struct.
 - A `writeReview` function that enables users to give reviews.
 - A `readReview` function that fetches users' reviews.
 
